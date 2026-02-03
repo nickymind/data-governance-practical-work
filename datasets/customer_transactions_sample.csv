@@ -1,0 +1,6 @@
+transaction_id,customer_id,account_id,transaction_date,transaction_amount,transaction_type,merchant_name,channel,city,country,device_id
+TX1001,C12345,A98765,2024-01-10,15000.50,DEBIT,Supermercado Central,MOBILE_APP,Buenos Aires,AR,DEV-9f3a21
+TX1002,C12345,A98765,2024-01-12,2500.00,CREDIT,Farmacia Norte,POS,Buenos Aires,AR,DEV-9f3a21
+TX1003,C67890,A12345,2024-01-13,98000.00,DEBIT,ElectroShop,WEB,Córdoba,AR,DEV-7b1c09
+TX1004,C54321,A55555,2024-01-15,3200.75,DEBIT,Cafetería Roma,MOBILE_APP,Rosario,AR,DEV-2d8f11
+TX1005,C67890,A12345,2024-01-18,120000.00,DEBIT,Concesionaria AutoSur,BRANCH,Mendoza,AR,DEV-7b1c09
